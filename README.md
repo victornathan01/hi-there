@@ -5,7 +5,7 @@ I am a Full Stack Web Developer, craving more challenges and knoweledge in this 
 I'm currently working on my skills, personal projects and learning more technologies to better serve and navigate the future challenges.
 
 Let's connect! 🤝
-email: victor.usdevcontact@gmail.com
+
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](www.linkedin.com/in/victor-pimentausdev)
 &nbsp; [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) Gmail](victor.usdevcontact@gmail.com)
 &nbsp;
