@@ -6,7 +6,7 @@ I'm currently working on my skills, personal projects and learning more technolo
 
 Let's connect! 🤝
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](www.linkedin.com/in/victor-pimentausdev)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) LinkedIn](www.linkedin.com/in/victor-pimentausdev)
 &nbsp; [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) Gmail](victor.usdevcontact@gmail.com)
 &nbsp;
 
