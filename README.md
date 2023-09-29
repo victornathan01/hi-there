@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://media.giphy.com/media/1sgetPM00wWqJpVUTl/giphy.gif)" width="100"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJ1Zm13ZTQ1MDFnaDRkY3hyMW5lMnN0aDN2dWV3Z3AwdGtpNnQweiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/1sgetPM00wWqJpVUTl/giphy.gif" width="100"/>
 </div>
 
 # Hi there, I`m Victor!
@@ -16,6 +16,7 @@ Let's connect! 🤝
   </a>
  <a href="victor.usdevcontact@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+ </a>
   </div>
 
 
