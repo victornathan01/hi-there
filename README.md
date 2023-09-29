@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJ1Zm13ZTQ1MDFnaDRkY3hyMW5lMnN0aDN2dWV3Z3AwdGtpNnQweiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/1sgetPM00wWqJpVUTl/giphy.gif" width="500"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJ1Zm13ZTQ1MDFnaDRkY3hyMW5lMnN0aDN2dWV3Z3AwdGtpNnQweiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/1sgetPM00wWqJpVUTl/giphy.gif" width="900"/>
 </div>
 
 # Hi there, I`m Victor!
