@@ -3,7 +3,7 @@
 I am a Full Stack Web Developer, craving more challenges and knoweledge in this fascinating field.
 
 I'm currently working on my skills, personal projects and learning more technologies to better serve and navigate the future challenges.
-
+ 
 ### Let's connect! 🤝
 
 <div id="badges">
