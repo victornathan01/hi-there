@@ -4,7 +4,7 @@ I am a Full Stack Web Developer, craving more challenges and knoweledge in this 
 
 I'm currently working on my skills, personal projects and learning more technologies to better serve and navigate the future challenges.
  
-### Let's connect! 🤝
+### Let's connect! 🤝 
 
 <div id="badges">
   <a href = "mailto:victor.usdevcontact@gmail.com"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
